@@ -9,6 +9,5 @@ A responsive and dynamic Web page , using HTML and CSS
 2.TABLET/RESPONSIVE-VEIW
 ![Responsive](https://user-images.githubusercontent.com/74761614/105910920-9ac1b100-604f-11eb-8cdd-781f12da4302.png)
 
-
-3.MOBILE-VEIW
+3.MOBILE VEIW
 ![mobile-veiw](https://user-images.githubusercontent.com/74761614/105910931-9e553800-604f-11eb-8c85-8eb3c91e57b0.png)
