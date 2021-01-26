@@ -1,4 +1,0 @@
-# Synox
-
-Assingment -1
-
