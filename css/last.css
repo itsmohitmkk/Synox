@@ -1,0 +1,195 @@
+.last{
+    margin-top: 27px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+.advanced-search{
+    font-weight: bolder;
+    margin-bottom: 22px;
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    height: 32px;
+}
+.text3{
+    width: 250px;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:  rgba(255, 255, 255, 0.7);
+}
+.find{
+    color: white;
+    font-weight: 100;
+    display: flex;
+    border-radius: 10px;
+    margin-left: 18px;
+    align-self: center;
+    height: 32px;
+    width: 60px;
+    align-items: center;
+    justify-content: center;
+    background-color: orangered;
+    
+}
+.advanced-photos{
+    margin-top: 76px;
+    /* margin-right: 35px; */
+}
+.advanced-pic1{
+    margin-top: 10px;
+    background-color:  rgba(255, 255, 255, 0.7);
+    height: 120px;
+    width: 300px;
+    border-radius: 6%;
+    position: relative;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    background: url(../assets/pic5.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.pic-div{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    font-size: 14px;
+    
+}
+.advanced-pic2{
+    /* margin: 10px ;
+    margin-left: 0px; */
+    margin-top: 12px;
+    background-color:  rgba(255, 255, 255, 0.7);
+    height: 160px;
+    width: 120px;
+    border-radius: 6%;
+    text-align: left;
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: baseline;
+    color: black;
+}
+#offer{
+    margin-top: 38px;
+}
+.offer{
+    margin-top: 10px;
+    background-color:  rgb(212, 230, 247);
+    height: 78px;
+    width: 293px;
+ 
+    text-align: left;
+    position: relative;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    align-items: baseline;
+    color: brown;
+    font-weight: bolder;
+    background: url(../assets/pic8.png);
+    background-size: cover;
+    background-position: center;
+}
+.learn-more{
+    width: 80px;
+    padding: 2px;
+    position:absolute;
+    bottom: 10px;
+    border-radius: 5px;
+    background-color: rgb(236, 119, 76);
+    font-weight: bold;
+}
+.pic{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    align-content: space-around;
+    overflow: hidden;
+    width: 30px;
+    height:30px;
+    border-radius: 30%;
+    margin-right: 10px;
+    border-spacing: 15px;
+    border-style: solid;
+    background: url(../assets/pic4.png);
+    background-size: cover;
+    background-position: center;
+}
+.pic-name1{
+    display: flex;
+    flex-direction: column;
+}
+.pic-name{
+    display: flex;
+    flex-direction: row;
+}
+.text11{
+    position: absolute;
+    bottom: 7px;
+    border-radius: 20px;
+    height: 50px ;
+    text-align:left;
+    padding: 8px;
+
+    font-size: 15px;
+    width: 280px;
+    /* padding: 8px; */
+    background-color: rgba(72, 96, 202, 0.7);
+ }
+
+ .text2{
+    position: absolute;
+    bottom: 7px;
+    border-radius: 20px;
+    height: 40px ;
+    text-align:left;
+   align-self: center;
+    padding: 8px;
+    font-size: 13px;
+    width: 90%;
+    /* padding: 8px; */
+    background-color:  rgba(255, 251, 251, 0.7);
+    color: black;
+    text-emphasis: bold;
+ }
+ .time1 {
+    margin-left: 127px;
+    height: 26px;
+    width: 50px;
+    background-color: orangered;
+    padding: 0px;
+    border-radius: 20%;
+}
+ #advanced-pic2{
+    background: url(../assets/pic7.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+ }
+ #advanced-pic3{
+    background: url(../assets/pic6.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+ }
+ .time {
+    background-color: rgb(221, 63, 5);
+    width: 36px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 12px;
+    margin-top: 8px;
+
+}

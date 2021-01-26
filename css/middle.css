@@ -1,0 +1,146 @@
+.middle{
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    margin: 40px;
+    margin-top: 20px;
+    margin-right:0px;
+    padding: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+    /* min-height: 100vh; */
+}
+.streaming-now{
+    text-decoration: black,solid;
+    font-weight: bolder;
+    margin-bottom: 10px;
+    
+    
+}
+.pics{
+    display: flex;
+    flex-wrap: wrap;
+    /* flex-direction: row; */
+    justify-content: space-between;
+    margin-bottom: 30px;
+    width: 100%;
+
+    
+}
+.border-spacing{
+    height: 32px;
+    width: 32px;
+    border: 1px solid red;
+    border-radius: 30%;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    align-content: space-around;
+    overflow: hidden;
+    width: 30px;
+    height:30px;
+    border-radius: 30%;
+    border-spacing: 15px;
+    border-style: solid;
+    background: url(../assets/pic4.png);
+    background-size: cover;
+    background-position: center;
+}
+
+.popular-grid-divs{
+    display: flex;
+    
+    flex-direction: row;
+    margin: 7px 0px 25px 0px;
+    /* background-color: aqua; */
+    height: 400px;
+    justify-content: space-between;
+    
+    
+}
+.popular-photos{
+    /* align-self: center; */
+    margin: 20px;
+    margin-left: 0px;
+    margin-top: 10px;
+    /* background-color:  rgba(255, 255, 255, 0.7)(156, 155, 155); */
+    height: 350px;
+    width: 270px;
+    border-radius: 6%;
+    position: relative;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+    /* width: 300px; */
+}
+.popular-time {
+    background-color: rgb(221, 63, 5);
+    width: 41px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 14px;
+    margin-top: 10px;
+    /* margin-left: 11px; */
+}
+.mainbox{
+    display: flex;
+    align-items: center;
+
+}
+.popular-text{
+   position: absolute;
+   bottom: 20px;
+   border-radius: 20px;
+   height: 80px ;
+   text-align:left;
+   font-size: 18px;
+   width: 80%;
+   padding: 10px;
+   color: black;
+   background-color: rgba(255, 255, 255, 0.5);
+   font-weight: bold;
+}
+.popular-names{
+    margin-left: 20px;
+  font-weight: bold;
+}
+.top-tutors-grid{
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+    margin: 15px;
+    margin-left: 0;
+    margin-top: 5px;
+}
+.mainbox2{
+    background-color:  rgba(255, 255, 255, 0.7);
+    width: 300px;
+    padding: 8px;
+    margin: 7px;
+    border-radius: 10px;
+    background-color: rgb(212, 230, 247);
+}
+
+#pic1{
+    background: url(../assets/pic2.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+#pic2{
+    background: url(../assets/pic3.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
